@@ -1,0 +1,6 @@
+## Bing
+Here is a summary of part 1 of the current page in English:
+- Artificial intelligence (AI): 
+- AI applications: AI technology is widely used throughout industry, government, and science[3]. Some high-profile applications are: web search engines, recommendation systems, speech and language processing, self-driving cars, generative and creative tools, and superhuman game playing.
+- AI history: AI was founded as an academic discipline in 1956[4]. The field went through multiple cycles of optimism and disappointment, until deep learning surpassed all previous AI techniques in 2012, leading to the AI spring of the early 2020s.
+- AI sub-fields: AI research is centered around particular goals and the use of particular tools[5]. The traditional goals of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception, and robotics[6]. General intelligence is among the field's long-term goals.

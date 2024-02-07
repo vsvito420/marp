@@ -1,33 +1,46 @@
 ---
-theme: gaia
-_class: lead
+marp: true
+theme: uncover
+class: invert
+size: 16:9
 paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+
+footer: 'Artificial Intelligence | Created by: Vito Skolan'
+image: images/ai.jpg
 ---
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
-
-# **Marp**
-
-Markdown Presentation Ecosystem
-
-https://marp.app/
-
+# Artificial Intelligence
 ---
 
-# How to write slides
+# What is AI?
 
-Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
-
-```markdown
-# Slide 1
-
-foobar
+Artificial Intelligence (AI) 
+The intelligence of machines or software, as opposed to the intelligence of humans or other animals. 
+A field of study in computer science that develops and studies intelligent machines.
 
 ---
 
-# Slide 2
+# Types of AI
 
-foobar
-```
+1. Narrow AI
+2. General AI
+3. Superintelligent AI
+
+---
+
+# Applications of AI
+
+- Healthcare
+- Robotics
+- Data Analysis
+- Autonomous Vehicles
+
+---
+
+# Future of AI
+
+AI continues to advance and will play a larger role in our everyday lives in the future.
+
+---
+
+# Thank you!
