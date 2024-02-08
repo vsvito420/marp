@@ -1,13 +1,7 @@
----
-# Artificial Intelligence
-## AI
-IKA 9/22 Vito Skolan
-09.02.2024
 
----
 ### Table of Contents
 
-|  page | content                  |
+|  Slide | content                  |
 |  ---- | -------------------------|
 |  3    | Introduction             |
 |  4    | What is AI?              | 
@@ -15,6 +9,13 @@ IKA 9/22 Vito Skolan
 |  6    | What is Machine Learning?| 
 |  7    | Types of AI              | 
 |  10   | History of AI            |
+---
+# Artificial Intelligence
+## AI
+IKA 9/22 Vito Skolan
+09.02.2024
+This presentation was made using [markdown](https://www.markdownguide.org/) code and [Marp](https://marp.app/).
+
 ---
 
 ### What is AI?
@@ -44,8 +45,9 @@ IKA 9/22 Vito Skolan
 
 ### What is Machine Learning?
 - ML= Machine Learning. 
-It is a subset of AI that enables machines to learn from data and improve over time.
-![MachineLearning](https://www.researchgate.net/publication/336365551/figure/fig5/AS:1152000314089483@1651669686237/DL-is-a-subset-of-ML-which-is-again-the-subset-of-AI_Q320.jpg)
+  - It is a subset of AI that enables machines to learn from data and improve over time.
+  
+    - ![MachineLearning](https://www.researchgate.net/publication/336365551/figure/fig5/AS:1152000314089483@1651669686237/DL-is-a-subset-of-ML-which-is-again-the-subset-of-AI_Q320.jpg)
 
 --- 
 
@@ -64,8 +66,8 @@ It is a subset of AI that enables machines to learn from data and improve over t
     - Recalls past events, 
     - improves over time (e.g., ChatGPT).
 ---
-
-### Theoretical AI
+### Types of AI
+#### Theoretical AI
 - **Artificial General Intelligence**: 
   - Learns without human training. [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 - **Super AI**: 
