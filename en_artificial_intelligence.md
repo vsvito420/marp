@@ -4,7 +4,7 @@ theme: gaia
 class: invert
 size: 16:9
 paginate: true
-footer: 'https://github.com/vsvito420/marp'
+footer: 'Vito Skolan @github: https://github.com/vsvito420/marp'
 header: 'Artificial Intelligence'
 backgroundImage: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN2MzFwMXJ4aThubzFtaWEyMWJvbXJzeGQ3MzF2azhuNzB3cnIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif')
 backgroundSize: cover
@@ -33,10 +33,10 @@ This presentation was made using [markdown](https://www.markdownguide.org/) code
 **What is AI?**
 - AI(=Artificial Intelligence).
   - It refers to computer systems that perform tasks requiring human intelligence.
-- AI can be used to 
-  - automate tasks, 
-  - analyze data, 
-  - make decisions.
+  - AI can be used to 
+    - automate tasks, 
+    - analyze data, 
+    - make decisions.
 ---
 **But what does artificial intelligence realy mean? pt.2**
 ![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFjbWo0bjNkejE0NGt4eGE5OWxhcmY3YXpwMG94dDBjM3IxYWVvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif) 

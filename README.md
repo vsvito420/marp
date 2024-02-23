@@ -19,21 +19,16 @@ This presentation was made using [markdown](https://www.markdownguide.org/) code
 ---
 
 ### What is AI?
-- AI(=Artificial Intelligence).
-  - It refers to computer systems that perform tasks requiring human intelligence.
-- AI can be used to 
-  - automate tasks, 
-  - analyze data, 
-  - make decisions.
+- “Ladies and gentlemen, welcome to my presentation on artificial intelligence. Today, we’ll explore the fascinating world of AI, which stands for Artificial Intelligence. So, what exactly is AI? It refers to computer systems that perform tasks requiring human-like intelligence. These systems can automate tasks, analyze data, and even make decisions.”
 ---
 ### But what does artificial intelligence realy mean? pt.2
 
 ###### John McCarthy's definition 2004 :
-- It is the science and engineering of making intelligent machines, especially intelligent computer programs. 
-- It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable.
+“Now, let’s dive deeper into the definition of AI. According to John McCarthy, a computer scientist, AI is the science and engineering of creating intelligent machines, especially intelligent computer programs. It’s related to understanding human intelligence, but AI doesn’t have to limit itself to methods that are biologically observable.”
 
 ---
 ### Misconceptions about AI
+“Here’s an interesting point: When most people use the term ‘AI’ today, they’re often referring to machine learning.. And what’s machine learning? Well, it’s a subset of AI that enables machines to learn from data and improve over time. Think of it as teaching computers to recognize speech, identify images, understand natural language, and make decisions.”
 - when most people use the term AI today, they’re often referring to machine learning. 
   - Machine Learning: 
     - enables machines to perform tasks *previously exclusive* to humans:
@@ -47,7 +42,7 @@ This presentation was made using [markdown](https://www.markdownguide.org/) code
 - ML= Machine Learning. 
   - It is a subset of AI that enables machines to learn from data and improve over time.
   
-    - ![MachineLearning](https://www.researchgate.net/publication/336365551/figure/fig5/AS:1152000314089483@1651669686237/DL-is-a-subset-of-ML-which-is-again-the-subset-of-AI_Q320.jpg)
+    - Venn Diagram: _ ![MachineLearning](./DL-is-a-subset-of-ML-which-is-again-the-subset-of-AI_Q320.jpg)
 
 --- 
 
