@@ -104,10 +104,15 @@ Supercomputer "Deep Blue" was designed by IBM. it defeated the word chess champi
 ---
 
 ### References
+learning
 - [Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - [OpenAI](https://openai.com/)
 
+used for the presentation:
+1. [Our World in Data: The brief history of artificial intelligence](https://ourworldindata.org/brief-history-of-ai)
+2. [Wikipedia: History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+3. [Science in the News: The History of Artificial Intelligence](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/)
 ---
 
 ###### thank you for your attention! :)

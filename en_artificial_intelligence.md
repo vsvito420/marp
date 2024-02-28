@@ -19,7 +19,7 @@ This presentation was made using [markdown](https://www.markdownguide.org/) code
 
 ---
 ### Table of Contents
-  slide | content                  |
+  slide | content                 |
   ---- | -------------------------|
   3    | Introduction             |
   4    | What is AI?              | 
@@ -41,8 +41,8 @@ This presentation was made using [markdown](https://www.markdownguide.org/) code
 **But what does artificial intelligence realy mean? pt.2**
 ![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFjbWo0bjNkejE0NGt4eGE5OWxhcmY3YXpwMG94dDBjM3IxYWVvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif) 
 ###### John McCarthy's definition 2004 :
-- It is the science and engineering of making intelligent machines, especially intelligent computer programs. 
-- It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable.
+- "It is the science and engineering of making intelligent machines, especially intelligent computer programs. 
+It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable."
 
 ---
 ### Misconceptions about AI
