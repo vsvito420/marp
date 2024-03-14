@@ -1,0 +1,24 @@
+
+digraph Mehrfachvererbung {
+    node [shape=record];
+
+    // Klassen definieren
+    classA [
+        label="{ClassA|
+        + methodA()}"
+    ];
+    classB [
+        label="{ClassB|
+        + methodB()}"
+    ];
+    classC [
+        label="{ClassC|
+        + methodC()}"
+    ];
+
+    // Vererbungsbeziehungen definieren
+    classA -> classB [arrowhead="onormal", label=""];
+    classA -> classC [arrowhead="onormal", label=""];
+}
+
+

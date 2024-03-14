@@ -6,14 +6,10 @@ size: 16:9
 paginate: true
 footer: 'Vito Skolan @github: https://github.com/vsvito420/marp'
 header: 'Mehrfachvererbung in C++'
-backgroundImage: url('./cpp.png')
+backgroundImage: url('')
 backgroundSize: cover
 backgroundPosition: right
-style: |
-  .columns {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr))
-  }
+
 ---
 
 # Mehrfachvererbung in C++
@@ -21,26 +17,15 @@ style: |
 ---
 
 ## einfache vererbung
-test
+
 ![einfachvererbung](./einfachvererbung.svg)
+
 <style scoped>
 img {
-  width: 20%;
+  width: 70%;
   height: auto;
 }
 </style>
-<div class="columns">
-  <div>
-  - A
-  - B
-  - C
-  </div>
-  <div>
-  - a
-  - b
-  - c
-  </div>
-</div>
 ---
 
 ## Mehrfachvererbung

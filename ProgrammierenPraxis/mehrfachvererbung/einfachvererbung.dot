@@ -1,0 +1,11 @@
+digraph EinfacheVererbung {
+    node [shape=record];
+
+    // Klassen definieren
+    classA [label="{ClassA|+ methodA()}"];
+    classB [label="{ClassB|+ methodB()}"];
+
+    // Vererbungsbeziehung definieren
+    classA -> classB [arrowhead="onormal", label=""];
+
+}

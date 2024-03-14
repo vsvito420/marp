@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97pt" height="145pt" viewBox="0.00 0.00 96.82 145.2">
+<g id="graph0" class="graph" transform="translate(4,141.1999969482422) scale(1)" data-name="EinfacheVererbung">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-141.2 92.82,-141.2 92.82,4 -4,4"/>
+<!-- classA -->
+<g id="node1" class="node" pointer-events="visible" data-name="classA">
+
+<polygon fill="none" stroke="black" points="0,-87.1 0,-136.7 88.82,-136.7 88.82,-87.1 0,-87.1"/>
+<text text-anchor="middle" x="44.41" y="-120.1" font-family="Times,serif" font-size="14.00">ClassA</text>
+<polyline fill="none" stroke="black" points="0,-111.9 88.82,-111.9"/>
+<text text-anchor="middle" x="44.41" y="-95.3" font-family="Times,serif" font-size="14.00">+ methodA()</text>
+</g>
+<!-- classB -->
+<g id="node2" class="node" pointer-events="visible" data-name="classB">
+
+<polygon fill="none" stroke="black" points="0.39,-0.5 0.39,-50.1 88.44,-50.1 88.44,-0.5 0.39,-0.5"/>
+<text text-anchor="middle" x="44.41" y="-33.5" font-family="Times,serif" font-size="14.00">ClassB</text>
+<polyline fill="none" stroke="black" points="0.39,-25.3 88.44,-25.3"/>
+<text text-anchor="middle" x="44.41" y="-8.7" font-family="Times,serif" font-size="14.00">+ methodB()</text>
+</g>
+<!-- classA&#45;&gt;classB -->
+<g id="edge1" class="edge" data-name="classA-&gt;classB">
+
+<path fill="none" stroke="black" d="M44.41,-87.33C44.41,-79.33 44.41,-70.21 44.41,-61.51"/>
+<polygon fill="none" stroke="black" points="47.91,-61.55 44.41,-51.55 40.91,-61.55 47.91,-61.55"/>
+</g>
+</g>
+</svg>

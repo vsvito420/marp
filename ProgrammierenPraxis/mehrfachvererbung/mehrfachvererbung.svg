@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202pt" height="145pt" viewBox="0.00 0.00 202.05 145.20">
+<g id="graph0" class="graph" transform="translate(4,141.1999969482422) scale(1)" data-name="Mehrfachvererbung">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-141.2 198.05,-141.2 198.05,4 -4,4" style=""/>
+<!-- classA -->
+<g id="node1" class="node" pointer-events="visible" data-name="classA">
+
+<polygon fill="none" stroke="black" points="52.61,-87.1 52.61,-136.7 141.44,-136.7 141.44,-87.1 52.61,-87.1" style=""/>
+<text text-anchor="middle" x="97.03" y="-120.1" font-family="Times,serif" font-size="14.00" style="">ClassA</text>
+<polyline fill="none" stroke="black" points="52.61,-111.9 141.44,-111.9" style=""/>
+<text text-anchor="middle" x="97.03" y="-95.3" font-family="Times,serif" font-size="14.00" style="">+ methodA()</text>
+</g>
+<!-- classB -->
+<g id="node2" class="node" pointer-events="visible" data-name="classB">
+
+<polygon fill="none" stroke="black" points="0,-0.5 0,-50.1 88.05,-50.1 88.05,-0.5 0,-0.5" style=""/>
+<text text-anchor="middle" x="44.03" y="-33.5" font-family="Times,serif" font-size="14.00" style="">ClassB</text>
+<polyline fill="none" stroke="black" points="0,-25.3 88.05,-25.3" style=""/>
+<text text-anchor="middle" x="44.03" y="-8.7" font-family="Times,serif" font-size="14.00" style="">+ methodB()</text>
+</g>
+<!-- classA&#45;&gt;classB -->
+<g id="edge1" class="edge" data-name="classA-&gt;classB">
+
+<path fill="none" stroke="black" d="M82.26,-87.33C76.91,-78.79 70.75,-68.97 64.97,-59.73" style=""/>
+<polygon fill="none" stroke="black" points="67.97,-57.93 59.7,-51.32 62.04,-61.65 67.97,-57.93" style=""/>
+</g>
+<!-- classC -->
+<g id="node3" class="node" pointer-events="visible" data-name="classC">
+
+<polygon fill="none" stroke="black" points="106,-0.5 106,-50.1 194.05,-50.1 194.05,-0.5 106,-0.5" style=""/>
+<text text-anchor="middle" x="150.03" y="-33.5" font-family="Times,serif" font-size="14.00" style="">ClassC</text>
+<polyline fill="none" stroke="black" points="106,-25.3 194.05,-25.3" style=""/>
+<text text-anchor="middle" x="150.03" y="-8.7" font-family="Times,serif" font-size="14.00" style="">+ methodC()</text>
+</g>
+<!-- classA&#45;&gt;classC -->
+<g id="edge2" class="edge" data-name="classA-&gt;classC">
+
+<path fill="none" stroke="black" d="M111.79,-87.33C117.14,-78.79 123.3,-68.97 129.08,-59.73" style=""/>
+<polygon fill="none" stroke="black" points="132.01,-61.65 134.35,-51.32 126.08,-57.93 132.01,-61.65" style=""/>
+</g>
+</g>
+</svg>
