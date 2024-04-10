@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: default
 class: invert
 size: 16:9
 paginate: true
@@ -18,16 +18,18 @@ backgroundPosition: right
 This presentation was made using [markdown](https://www.markdownguide.org/) code and [Marp](https://marp.app/).
 
 ---
+
 ### Table of Contents
-  slide | content                 |
-  ---- | -------------------------|
-  3    | Introduction             |
-  4    | What is AI?              | 
-  5    | Misconceptions about AI  |
-  6    | What is Machine Learning?| 
-  7    | Types of AI              | 
-  10   | History of AI            |
-  13   | AI in the Future         |
+|  slide | content                  |
+|  ----  | -------------------------|
+|  3     | Introduction             |
+|  4     | What is AI?              | 
+|  5     | Misconceptions about AI  |
+|  6     | What is Machine Learning?| 
+|  7     | Types of AI              | 
+|  10    | History of AI            |
+|  13    | AI in the Future         |
+
 ---
 
 **What is AI?**

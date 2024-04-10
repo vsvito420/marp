@@ -1,38 +1,99 @@
 ---
 marp: true
-theme: gaia
-class: invert
-size: 16:9
+theme: default
 paginate: true
-footer: 'Vito Skolan @github: https://github.com/vsvito420/marp'
 header: 'Zielsetzung der Steuern'
-backgroundImage: url('https://media0.giphy.com/media/9rwJNLBu8FMfixoIxL/giphy.gif')
-backgroundSize: cover
-backgroundPosition: right
+footer: 'Seite [page] von [pages]'
 
 ---
 
-# 1) Zielsetzung der Steuern
-ergertr3rt3kztt
----
+# Einleitung
 
-## 1) Steuergrundlagen
-
----
-
-### Was sind Steuern?
+- Steuern sind Abgaben, die der Staat von seinen Bürgern erhebt, um seine Aufgaben zu finanzieren.
+- Sie sind die wichtigste Einnahmequelle des Staates und dienen dazu, wichtige öffentliche Güter und Dienstleistungen bereitzustellen.
+- Jeder, der in Deutschland lebt und Einkommen erzielt, ist verpflichtet, Steuern zu zahlen.
 
 ---
 
-### Wer zahlt Steuern?
+# Arten von Steuern
+
+- Bundes-, Landes- und Gemeindesteuern
+- Direkte und indirekte Steuern
+- Steuerschuldner und Steuerträger
 
 ---
 
-### Wer zahlt worauf Steuern?
+## Bundessteuern
+
+- Einkommensteuer
+- Körperschaftsteuer
+- Umsatzsteuer (gemeinschaftssteuer)
 
 ---
 
-### Wie viel geld nimmt der Staat durch Steuern ein?
+## Landessteuern
+
+- Grunderwerbsteuer
 
 ---
 
+## Gemeindesteuern
+
+- Gewerbesteuer
+
+---
+
+## Direkte Steuern
+
+- Lohnsteuer
+- Einkommensteuer
+
+---
+
+## Indirekte Steuern
+
+- Umsatzsteuer
+- Mineralölsteuer
+
+---
+
+## Steuerschuldner und Steuerträger
+
+- Steuerschuldner: die Person, die die Steuer schuldet
+- Steuerträger: die Person, die die Steuer tatsächlich trägt
+
+---
+
+# Wichtige Steuereinnahmen in Deutschland
+
+- Umsatzsteuer
+- Einkommensteuer
+- Gewerbesteuer
+
+---
+
+# Ziele der Steuern
+
+- Finanzierung wichtiger staatlicher Aufgaben
+  - Bildung
+  - Gesundheit
+  - Infrastruktur
+  - Sicherheit
+- Umverteilung von Einkommen und Vermögen
+- Lenkung des wirtschaftlichen Handelns
+  - Umweltschutz
+  - Gesundheitsschutz
+  - Soziale Gerechtigkeit
+
+---
+
+# Fazit
+
+- Wichtiger Beitrag zur Gesellschaft
+- Finanzierung wichtiger staatlicher Aufgaben
+- Umverteilung von Einkommen und Vermögen
+- Lenkung des wirtschaftlichen Handelns
+- Jeder sollte seinen fairen Anteil an Steuern zahlen
+- Steuervermeidung und Steuerhinterziehung bekämpfen
+
+---
