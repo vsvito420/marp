@@ -1,10 +1,15 @@
 ---
 marp: true
+theme: uncover
+class: invert
 paginate: true
 header: 'Zielsetzung der Steuern'
-backgroundImage: url('https://www.publicdomainpictures.net/pictures/160000/velka/billets-de-banque-euros-1456165978hXz.jpg')
-backgroundSize: cover
-backgroundPosition: right
+
+---
+
+# Zielsetzung der Steuern
+
+
 ---
 
 # Einleitung
