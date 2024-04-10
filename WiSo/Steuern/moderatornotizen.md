@@ -1,121 +1,42 @@
-
 # Moderator Notizen
 
 ## Einleitung
-
-- Erkläre, was Steuern sind und warum sie erhoben werden.
-  + Steuern sind Abgaben, die der Staat von seinen Bürgern erhebt, um seine Aufgaben zu finanzieren.
-  + Sie sind die wichtigste Einnahmequelle des Staates und dienen dazu, wichtige öffentliche Güter und Dienstleistungen bereitzustellen.
-- Betone, dass Steuern die wichtigste Einnahmequelle des Staates sind und dazu dienen, wichtige öffentliche Güter und Dienstleistungen bereitzustellen.
-- Erwähne, dass jeder, der in Deutschland lebt und Einkommen erzielt, verpflichtet ist, Steuern zu zahlen.
+- Beginne mit einer kurzen Definition von Steuern und betone ihre Rolle als wichtigste Einnahmequelle des Staates.
+- Erläutere, dass Steuern zur Finanzierung wichtiger öffentlicher Güter und Dienstleistungen dienen.
+- Hebe hervor, dass jeder, der in Deutschland lebt und Einkommen erzielt, verpflichtet ist, Steuern zu zahlen.
 
 ## Arten von Steuern
+- Unterteile die Steuern in Bundes-, Landes- und Gemeindesteuern sowie in direkte und indirekte Steuern.
+- Gib für jede Kategorie Beispiele an.
+- Erkläre die Begriffe Steuerschuldner und Steuerträger und unterscheide sie voneinander.
 
-- Erkläre, dass es verschiedene Arten von Steuern gibt, die auf Bundes-, Landes- und Gemeindeebene erhoben werden.
-  + Bundessteuern: werden vom Bund erhoben und stehen ihm allein zu (z.B. Einkommensteuer, Körperschaftsteuer)
-  + Landessteuern: werden von den Bundesländern erhoben und stehen ihnen allein zu (z.B. Grunderwerbsteuer)
-  + Gemeindesteuern: werden von den Gemeinden erhoben und stehen ihnen allein zu (z.B. Gewerbesteuer)
-  + Gemeinschaftssteuern: werden von Bund und Ländern gemeinsam erhoben und aufgeteilt (z.B. Umsatzsteuer)
-- Unterscheide zwischen direkten und indirekten Steuern und gib Beispiele für jede Art von Steuern.
-  + Direkte Steuern: werden direkt an das Finanzamt gezahlt (z.B. Einkommensteuer, Körperschaftsteuer)
-  + Indirekte Steuern: werden auf den Preis einer Ware oder Dienstleistung aufgeschlagen und vom Verkäufer an das Finanzamt abgeführt (z.B. Umsatzsteuer, Mineralölsteuer)
-- Erkläre, wer Steuerschuldner und Steuerträger ist und wie sich die Begriffe unterscheiden.
-  + Steuerschuldner: die Person, die die Steuer schuldet (z.B. der Arbeitgeber bei der Lohnsteuer)
-  + Steuerträger: die Person, die die Steuer tatsächlich trägt (z.B. der Arbeitnehmer bei der Lohnsteuer)
+### Bundessteuern
+- Nenne die wichtigsten Bundessteuern (Einkommensteuer, Körperschaftsteuer, Umsatzsteuer) und erläutere kurz, was sie jeweils sind.
 
----
+### Landessteuern
+- Nenne die wichtigsten Landessteuern (Grunderwerbsteuer) und erläutere kurz, was sie jeweils sind.
 
-# Arten von Steuern
+### Gemeindesteuern
+- Nenne die wichtigsten Gemeindesteuern (Gewerbesteuer) und erläutere kurz, was sie jeweils sind.
 
-- Bundes-, Landes- und Gemeindesteuern
-- Direkte und indirekte Steuern
-- Steuerschuldner und Steuerträger
+### Direkte Steuern
+- Nenne die wichtigsten direkten Steuern (Lohnsteuer, Einkommensteuer) und erläutere kurz, was sie jeweils sind.
 
----
+### Indirekte Steuern
+- Nenne die wichtigsten indirekten Steuern (Umsatzsteuer, Mineralölsteuer) und erläutere kurz, was sie jeweils sind.
 
-## Bundessteuern
+## Wichtige Steuereinnahmen in Deutschland
+- Hebe die Umsatzsteuer, Einkommensteuer und Gewerbesteuer als die wichtigsten Steuereinnahmen in Deutschland hervor.
 
-| Steuerarten | Beschreibung |
-| --- | --- |
-| Einkommensteuer | Steuer auf das Einkommen natürlicher Personen |
-| Körperschaftsteuer | Steuer auf das Einkommen juristischer Personen |
-| Umsatzsteuer | Steuer auf den Umsatz von Unternehmen, die gemeinschaftssteuer ist |
+## Ziele der Steuern
+- Erläutere, dass Steuern zur Finanzierung wichtiger staatlicher Aufgaben wie Bildung, Gesundheit, Infrastruktur und Sicherheit dienen.
+- Betone die Rolle der Steuern bei der Umverteilung von Einkommen und Vermögen.
+- Erkläre, wie Steuern das wirtschaftliche Handeln lenken können, um Umweltschutz, Gesundheitsschutz und soziale Gerechtigkeit zu fördern.
 
----
+## Fazit
+- Betone die Bedeutung von Steuern als wichtigen Beitrag zur Gesellschaft.
+- Hebe hervor, dass Steuern die Finanzierung wichtiger staatlicher Aufgaben ermöglichen.
+- Erläutere, dass Steuern zur Umverteilung von Einkommen und Vermögen beitragen und das wirtschaftliche Handeln lenken können.
+- Fordere dazu auf, dass jeder seinen fairen Anteil an Steuern zahlen sollte.
+- Schließe mit einem Aufruf, Steuervermeidung und Steuerhinterziehung zu bekämpfen.
 
-## Landessteuern
-
-| Steuerarten | Beschreibung |
-| --- | --- |
-| Grunderwerbsteuer | Steuer auf den Erwerb von Grundstücken |
-
----
-
-## Gemeindesteuern
-
-| Steuerarten | Beschreibung |
-| --- | --- |
-| Gewerbesteuer | Steuer auf den Gewerbeertrag von Unternehmen |
-
----
-
-## Direkte Steuern
-
-| Steuerarten | Beschreibung |
-| --- | --- |
-| Lohnsteuer | Steuer auf das Einkommen aus nichtselbstständiger Arbeit |
-| Einkommensteuer | Steuer auf das Einkommen natürlicher Personen |
-
----
-
-## Indirekte Steuern
-
-| Steuerarten | Beschreibung |
-| --- | --- |
-| Umsatzsteuer | Steuer auf den Umsatz von Unternehmen |
-| Mineralölsteuer | Steuer auf Mineralölprodukte |
-
----
-
-## Steuerschuldner und Steuerträger
-
-- Steuerschuldner: die Person, die die Steuer schuldet
-- Steuerträger: die Person, die die Steuer tatsächlich trägt
-
----
-
-# Wichtige Steuereinnahmen in Deutschland
-
-- Umsatzsteuer
-- Einkommensteuer
-- Gewerbesteuer
-
----
-
-# Ziele der Steuern
-
-- Finanzierung wichtiger staatlicher Aufgaben
-  - Bildung
-  - Gesundheit
-  - Infrastruktur
-  - Sicherheit
-- Umverteilung von Einkommen und Vermögen
-- Lenkung des wirtschaftlichen Handelns
-  - Umweltschutz
-  - Gesundheitsschutz
-  - Soziale Gerechtigkeit
-
----
-
-# Fazit
-
-- Wichtiger Beitrag zur Gesellschaft
-- Finanzierung wichtiger staatlicher Aufgaben
-- Umverteilung von Einkommen und Vermögen
-- Lenkung des wirtschaftlichen Handelns
-- Jeder sollte seinen fairen Anteil an Steuern zahlen
-- Steuervermeidung und Steuerhinterziehung bekämpfen
-
----
-
-Diese PowerPoint-Präsentation enthält alle gewünschten Informationen und ist mit CSS gestaltet, um eine zweispaltige Ansicht zu ermöglichen. Die Folien sind ansprechend gestaltet und leicht zu lesen. Die Moderator Notizen enthalten zusätzliche Informationen, die dem Vortragenden helfen, das Thema zu erklären.

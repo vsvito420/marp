@@ -1,10 +1,10 @@
 ---
 marp: true
-theme: default
 paginate: true
 header: 'Zielsetzung der Steuern'
-footer: 'Seite [page] von [pages]'
-
+backgroundImage: url('https://www.publicdomainpictures.net/pictures/160000/velka/billets-de-banque-euros-1456165978hXz.jpg')
+backgroundSize: cover
+backgroundPosition: right
 ---
 
 # Einleitung
@@ -40,6 +40,12 @@ footer: 'Seite [page] von [pages]'
 ## Gemeindesteuern
 
 - Gewerbesteuer
+
+---
+
+# Arten von Steuern
+
+![ArtenVonSteuern](https://www.osthessen-zeitung.de/fileadmin/user_upload/2018/Steuereinnahmen.jpg)
 
 ---
 
