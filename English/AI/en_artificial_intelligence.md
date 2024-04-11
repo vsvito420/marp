@@ -60,9 +60,9 @@ It is related to the similar task of using computers to understand human intelli
 ### What is Machine Learning?
 - ML= Machine Learning. 
 It is a subset of AI that enables machines to learn from data and improve over time.
-![MachineLearning](https://www.researchgate.net/publication/336365551/figure/fig5/AS:1152000314089483@1651669686237/DL-is-a-subset-of-ML-which-is-again-the-subset-of-AI_Q320.jpg)
+![MachineLearning](https://github.com/vsvito420/marp/blob/d6c84760a8424125fb2f4b17c415af27c2b4a673/English/AI/DL-is-a-subset-of-ML-which-is-again-the-subset-of-AI_Q320.jpg)
 
---- 
+---
 
 ### Types of AI
 - **Realized AI**
