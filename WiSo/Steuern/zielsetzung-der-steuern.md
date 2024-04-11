@@ -9,10 +9,9 @@ header: 'Zielsetzung der Steuern'
 
 # Zielsetzung der Steuern
 
-
 ---
 
-# Einleitung
+## Einleitung
 
 - Steuern sind Abgaben, die der Staat von seinen Bürgern erhebt, um seine Aufgaben zu finanzieren.
 - Sie sind die wichtigste Einnahmequelle des Staates und dienen dazu, wichtige öffentliche Güter und Dienstleistungen bereitzustellen.
@@ -20,7 +19,7 @@ header: 'Zielsetzung der Steuern'
 
 ---
 
-# Arten von Steuern
+## Arten von Steuern
 
 - Bundes-, Landes- und Gemeindesteuern
 - Direkte und indirekte Steuern
@@ -28,7 +27,7 @@ header: 'Zielsetzung der Steuern'
 
 ---
 
-## Bundessteuern
+## Bundes-steuern
 
 - Einkommensteuer
 - Körperschaftsteuer
@@ -36,19 +35,17 @@ header: 'Zielsetzung der Steuern'
 
 ---
 
-## Landessteuern
+## Landes-steuern
 
 - Grunderwerbsteuer
 
 ---
 
-## Gemeindesteuern
+## Gemeinde-steuern
 
 - Gewerbesteuer
 
 ---
-
-# Arten von Steuern
 
 ![ArtenVonSteuern](https://www.osthessen-zeitung.de/fileadmin/user_upload/2018/Steuereinnahmen.jpg)
 
@@ -75,7 +72,7 @@ header: 'Zielsetzung der Steuern'
 
 ---
 
-# Wichtige Steuereinnahmen in Deutschland
+## Wichtige Steuereinnahmen in Deutschland
 
 - Umsatzsteuer
 - Einkommensteuer
@@ -83,7 +80,7 @@ header: 'Zielsetzung der Steuern'
 
 ---
 
-# Ziele der Steuern
+## Ziele der Steuern
 
 - Finanzierung wichtiger staatlicher Aufgaben
   - Bildung
@@ -98,7 +95,7 @@ header: 'Zielsetzung der Steuern'
 
 ---
 
-# Fazit
+## Fazit
 
 - Wichtiger Beitrag zur Gesellschaft
 - Finanzierung wichtiger staatlicher Aufgaben
