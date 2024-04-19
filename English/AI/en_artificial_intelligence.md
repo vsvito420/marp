@@ -22,7 +22,7 @@ This presentation was made using [markdown](https://www.markdownguide.org/) code
 ### Table of Contents
 |  slide | content                  |
 |  ----  | -------------------------|
-|  3     | Introduction             |
+|  3     | Table of Contents        |
 |  4     | What is AI?              | 
 |  5     | Misconceptions about AI  |
 |  6     | What is Machine Learning?| 
