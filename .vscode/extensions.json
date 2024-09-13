@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "yzhang.markdown-all-in-one",
+      "shd101wyy.markdown-preview-enhanced",
+      "davidanson.vscode-markdownlint",
+      "mushan.vscode-paste-image",
+      "alefragnani.project-manager"
+    ]
+  }

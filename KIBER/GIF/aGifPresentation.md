@@ -9,81 +9,114 @@ header: 'GIFs Erstellen'
 backgroundImage: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN2MzFwMXJ4aThubzFtaWEyMWJvbXJzeGQ3MzF2azhuNzB3cnIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif')
 backgroundSize: cover
 backgroundPosition: right
+style: |
+  .columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
 
 ---
 # GIFs Erstellen
 
-This presentation was made using [markdown](https://www.markdownguide.org/) code and [Marp](https://marp.app/).
+Eine Einführung in die Welt der animierten Bilder
 
 ---
-## 1. Das GIF-Format kennenlernen
+## 1. Das GIF-Format: Grundlagen & Besonderheiten
 
-- **GIF** steht für "Graphics Interchange Format"
-- Ein digitales Bildformat
-- Besonderheiten:
-  - Unterstützt bis zu 256 Farben
-  - Ermöglicht transparente Hintergründe
-  - Kann animierte Bilder darstellen
-  - Weit verbreitet im Internet
+- **GIF** = Graphics Interchange Format
+- Entwickelt 1987 von CompuServe
 
----
-## 2. Besonderheiten des GIF-Formats
-
+### Besonderheiten:
+- Unterstützt bis zu 256 Farben
+- Ermöglicht transparente Hintergründe
+- Unterstützt Animationen
 - Komprimierung ohne Qualitätsverlust
 - Kleine Dateigröße
-- Unterstützung von Animationen
-- Breite Kompatibilität mit verschiedenen Plattformen und Browsern
+- Breite Kompatibilität
 
 ---
-## 3. Varianten von GIF
+## 2. Varianten von GIF
 
-### 3.1 Animationen
+<div class="columns">
+<div>
+
+### Statische GIFs
+- Einzelne, nicht-animierte Bilder
+- Gut für Logos oder einfache Grafiken
+
+### Animierte GIFs
 - Mehrere Einzelbilder werden nacheinander abgespielt
-- Einfache Bewegungen oder kurze Szenen darstellbar
-- Beliebt für Reaktionen in sozialen Medien
+- Ideal für kurze Animationen
 
-### 3.2 Konvertierte Videos
-- Kurze Videoausschnitte in GIF-Format umgewandelt
-- Häufig für Memes oder Highlights verwendet
+</div>
+<div>
+
+### Animierte GIFs (Fortsetzung)
+Weitere Anwendungen:
+- Reaktionen in sozialen Medien
+- Produktdemonstrationen
+
+### Video-GIFs
+- Aus Videoausschnitten konvertiert
+- Beliebt für Memes und Highlights
+
+</div>
+</div>
 
 ---
-## 4. GIFs erstellen: Animiertes Logo
+## 3. GIFs erstellen: Animiertes Logo
 
 1. Öffne https://gif-erstellen.com/
 2. Lade deine Bilder hoch
-3. Ordne die Bilder in der gewünschten Reihenfolge an
+3. Ordne die Bilder an
 4. Stelle die Animationsgeschwindigkeit ein
-5. Füge bei Bedarf Text oder Effekte hinzu
-6. Speichere dein fertiges animiertes GIF
+5. Füge Text oder Effekte hinzu (optional)
+6. Speichere dein animiertes GIF
+
+**Praxis:** Erstellen wir gemeinsam ein animiertes KIBERONE-Logo!
 
 ---
-## 5. GIFs aus YouTube-Videos erstellen
+## 4. GIFs aus YouTube-Videos erstellen
 
-1. Finde das gewünschte YouTube-Video
-2. Merke dir die Startzeit des gewünschten Abschnitts
-3. Gehe zu file-converter-online.com
-4. Füge den YouTube-Link ein
-5. Stelle Start, Dauer und Geschwindigkeit ein
-6. Wähle die Auflösung (Standard: 360px)
-7. Konvertiere und speichere dein GIF
+1. YouTube-Video und Zeitpunkt auswählen
+2. Besuche file-converter-online.com
+3. Füge den YouTube-Link ein
+4. Stelle ein:
+   - Startzeit
+   - Dauer (in Sekunden)
+   - Geschwindigkeit
+   - Auflösung (Standard: 360px)
+5. Konvertiere und speichere dein GIF
+
+**Tipp:** Höhere Auflösung = größere Dateigröße
 
 ---
-## 6. GIFs hochladen und teilen
+## 5. GIFs hochladen und teilen mit Giphy
 
-1. Besuche die Webseite Giphy
+1. Gehe zu giphy.com
 2. Erstelle ein Konto oder melde dich an
 3. Klicke auf "Upload"
-4. Ziehe dein GIF in das Uploadfeld oder wähle es aus
+4. Lade dein GIF hoch
 5. Füge Tags und eine Beschreibung hinzu
 6. Veröffentliche dein GIF
 7. Teile den Link oder bette das GIF ein
 
----
-## Zusammenfassung
+**Bonus:** Erkunde die Giphy-Bibliothek für Inspirationen!
 
-- GIFs sind vielseitige, animierte Bilder
-- Sie können aus Einzelbildern oder Videos erstellt werden
-- Werkzeuge wie gif-erstellen.com und file-converter-online.com erleichtern die Erstellung
-- Plattformen wie Giphy ermöglichen das einfache Teilen von GIFs
+---
+## Zusammenfassung & Praxistipps
+
+- GIFs sind vielseitige, animierte oder statische Bilder
+- Erstellung aus Einzelbildern oder Videos möglich
+- Werkzeuge: 
+  - gif-erstellen.com
+  - file-converter-online.com
+  - giphy.com
+
+### Beste Praktiken:
+- Halte GIFs kurz und prägnant
+- Achte auf Dateigröße für schnelle Ladezeiten
+- Experimentiere mit Timing und Effekten
 
 Viel Spaß beim Erstellen eurer eigenen GIFs!
